@@ -1,2 +1,5 @@
-public klass tmp() {
+class tmp {
+	public static void main(String[] args) {
+
+	}
 }
